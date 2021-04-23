@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "732210508687",
+    "project_id": "firebase-authentication-300411",
+    "storage_bucket": "firebase-authentication-300411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732210508687:android:0f5e44cb43d508df2391fa",
+        "android_client_info": {
+          "package_name": "com.example.survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732210508687-ba8ctg6ji06bneef436a7peilu9gcff4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.survey",
+            "certificate_hash": "f1d8cb5ffe18ec124317b2721c407dd59cbf192e"
+          }
+        },
+        {
+          "client_id": "732210508687-mfm0rqv95ndcfj4avnuk5gkqmb6eaoq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.survey",
+            "certificate_hash": "71a872b10f12e55da9b8e6c7919cd25c23c2e7d5"
+          }
+        },
+        {
+          "client_id": "732210508687-m7la3vit2lnn39i3m0n67kk4n77nhm7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIs-zxnw5Pzrb0_SjYS7SJg3rk_1vIRrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732210508687-72ao5imjqpoj7klamogeg7aoj6apv05l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

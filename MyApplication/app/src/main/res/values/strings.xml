@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="faceBookBtn">Sign in with facebook</string>
+    <string name="googleBtn">Sign in with google</string>
+    <string name="emailBtn">Sign in with Email</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="survey_detail">Survey Detail</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="LOCATION_URL">https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyAKF1ByQ96sRLC1Y4c7_qm6G_MaZKBDsGs</string>
+    <string name="facebook_app_id">517493811925350</string>
+    <string name="fb_login_protocol_scheme">fb517493811925350</string>
+    <string name="MOCK_LOCATION_URL">https://60688d800add4900173402ae.mockapi.io/api/AZZ_01/</string>
+    <string name="MOCK_LOCATION_REQUEST_METHOD">GET</string>
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_custom_dashboard">CustomDashboard</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="privacypolicy">https://www.termsfeed.com/live/b3d02755-13f2-4dd5-8121-7c04c68f52be</string>
+    <string name="diagnosis">https://sandbox-healthservice.priaid.ch/diagnosis</string>
+    <string name="mockDiagnosis">https://5eff8c0cdfd1400016ae1337.mockapi.io/api/v1/weather/diagnosis</string>
+    <string name="token">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6ImFzaGltZ2hpbWlyZUBnbWFpbC5jb20iLCJyb2xlIjoiVXNlciIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL3NpZCI6Ijg5MzkiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3ZlcnNpb24iOiIyMDAiLCJodHRwOi8vZXhhbXBsZS5vcmcvY2xhaW1zL2xpbWl0IjoiOTk5OTk5OTk5IiwiaHR0cDovL2V4YW1wbGUub3JnL2NsYWltcy9tZW1iZXJzaGlwIjoiUHJlbWl1bSIsImh0dHA6Ly9leGFtcGxlLm9yZy9jbGFpbXMvbGFuZ3VhZ2UiOiJlbi1nYiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvZXhwaXJhdGlvbiI6IjIwOTktMTItMzEiLCJodHRwOi8vZXhhbXBsZS5vcmcvY2xhaW1zL21lbWJlcnNoaXBzdGFydCI6IjIwMjEtMDQtMTUiLCJpc3MiOiJodHRwczovL3NhbmRib3gtYXV0aHNlcnZpY2UucHJpYWlkLmNoIiwiYXVkIjoiaHR0cHM6Ly9oZWFsdGhzZXJ2aWNlLnByaWFpZC5jaCIsImV4cCI6MTYxOTAwNTUxOCwibmJmIjoxNjE4OTk4MzE4fQ._nDH4OKqwq9ZwAVjOz-wGJ7HZN8GoBPZ5M5-9J3b6wM</string>
+</resources>
